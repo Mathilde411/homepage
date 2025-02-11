@@ -6,7 +6,7 @@
   <footer>
     <p>
       © Mathilde Pascal - 2025 <br>
-      <a href="https://github.com/Mathilde411/homepage">GitHub repository</a>
+      <span><a href="https://github.com/Mathilde411/homepage">GitHub repository</a> - <a href="https://webring.devse.wiki/">Webring</a></span>
     </p>
   </footer>
 </template>

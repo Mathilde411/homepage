@@ -18,7 +18,7 @@
       object-oriented programming language.
     </li>
     <li>
-      <a href="https://github.com/kiss-org/kiss">Kiss</a> - A RISC-V microkernel that I'm doing with
+      <a href="https://github.com/kiss-org/kiss">Kiss</a> - A RISC-V microkernel that I'm building with
       my girlfriend.
     </li>
     <li>
@@ -44,8 +44,8 @@
   <p>You can also check out what my friends are doing :)</p>
   <ul>
     <li>
-      <a href="https://smnx.fr">Clem</a> - My wonderful girlfriend. She makes her own OS called <a
-      href="https://github.com/skift-org/skift">Skift</a>.
+      <a href="https://smnx.sh">Clem</a> - My wonderful girlfriend. She makes her own OS called <a
+        href="https://github.com/skift-org/skift">Skift</a>.
     </li>
     <li>
       <a href="https://hypair.imt-ne.fr/air">AIR</a> - The IT and Networks association of IMT Nord
